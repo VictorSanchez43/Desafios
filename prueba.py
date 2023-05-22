@@ -11,3 +11,5 @@ def saludar2(apellido):
     print(f'Tu apellido es {apellido}.')
     
 saludar2(apellido)
+
+print('Gracias por todo')
